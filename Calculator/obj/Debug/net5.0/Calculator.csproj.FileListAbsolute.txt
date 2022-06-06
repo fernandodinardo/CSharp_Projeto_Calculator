@@ -1,0 +1,16 @@
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\bin\Debug\net5.0\Calculator.exe
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\bin\Debug\net5.0\Calculator.deps.json
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\bin\Debug\net5.0\Calculator.dll
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\bin\Debug\net5.0\Calculator.pdb
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.dll
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\refint\Calculator.dll
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.pdb
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+D:\devs\Csharp\BaltaIO\Projetos\Calculator\obj\Debug\net5.0\ref\Calculator.dll
